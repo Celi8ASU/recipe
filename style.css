@@ -1,0 +1,9 @@
+html {
+   background-color:rgba(122, 191, 191, .5);
+}
+body {
+    background-color:#d8d0d0;
+    min-width:414px;
+    max-width:1280px;
+    margin:auto;
+}
